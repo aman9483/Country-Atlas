@@ -1,0 +1,19 @@
+
+.navbar-section {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Dark mode styles */
+  .theme-dark .navbar-section {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Light mode styles */
+  .theme-light .navbar-section {
+    background-color: #fff;
+    color: #333;
+  }
+
+  
